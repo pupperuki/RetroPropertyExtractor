@@ -1,0 +1,3 @@
+[submodule "LibCommon"]
+	path = LibCommon
+	url = https://github.com/arukibree/LibCommon
