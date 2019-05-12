@@ -2,7 +2,7 @@
 
 This is a utility I wrote in late 2015 to extract property data for script objects from Retro Studios games, for use in Prime World Editor. This was written as a one-off utility and wasn't meant to be maintained over a long period of time, and so it is probably not particularly flexible or easy to use/modify, but the code is here just in case it proves to be useful again at some point in the future!
 
-Compiles in Qt Creator with Visual Studio 2017, other platforms/compilers untested
+Compiles in Qt Creator with MSVC 2017, other platforms/compilers untested
 
 # Background
 
